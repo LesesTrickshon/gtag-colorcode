@@ -1,2 +1,2 @@
-# gtag-colorcode
-A python program which can calculate Gorilla Tag Color Codes
+# GTAG COLOR CODE CALCULATOR
+## A command line tool to find colorcodes
